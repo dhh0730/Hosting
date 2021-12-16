@@ -1,7 +1,7 @@
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
   <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com" rel="noopener" target="_blank"><span class="blue-text">PLTR</span></a> by TradingView</div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com" rel="noopener" target="_blank"><span class="blue-text">PLTR </span></a> by TradingView</div>
   <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-overview.js" async>
   {
   "colorTheme": "light",
@@ -25,7 +25,7 @@
   "symbolActiveColor": "rgba(41, 98, 255, 0.12)",
   "tabs": [
     {
-      "title": "PLTR",
+      "title": "PLTR ",
       "symbols": [
         {
           "s": "NYSE:PLTR"
@@ -34,10 +34,16 @@
           "s": "NYSE:CRM"
         },
         {
-          "s": "NYSE:IBM"
+          "s": "NYSE:SAP"
+        },
+        {
+          "s": "NYSE:NOW"
         },
         {
           "s": "NASDAQ:MSFT"
+        },
+        {
+          "s": "NASDAQ:AMZN"
         }
       ]
     }
